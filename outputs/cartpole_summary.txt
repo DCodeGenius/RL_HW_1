@@ -1,0 +1,12 @@
+CartPole random search results
+Environment: CartPole-v1
+Searches: 1000
+Max random weight samples per search: 10000
+Target score: 200
+Single full random-search training samples: 10000
+Best score in full training: 200
+First successful sample in full training: 7
+Average episodes required until score 200: 13.51
+Failed searches: 0
+Best weights from full training: [ 0.2308 -0.2326  0.9944  0.9617]
+Histogram: outputs\cartpole_random_search_histogram.png
